@@ -1,2 +1,2 @@
-# Recreating the NYPost webiste 
+# Recreating the NYPost website 
  
