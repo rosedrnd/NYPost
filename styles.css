@@ -1,6 +1,5 @@
 /*apply border to all div delete this after design is done*/
-div  {    
-}
+
 /*remove the default color of "a" and its default highlight color*/
 a, a:hover {
     color: black;
@@ -57,4 +56,9 @@ h2 {
 .live-color {
     color: red;
     font-weight: bold;
+}
+
+.text-en-rouge {
+    color: #FF0000; 
+
 }
