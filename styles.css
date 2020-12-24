@@ -1,8 +1,60 @@
 /*apply border to all div delete this after design is done*/
-div  {
-    border:1px solid #000000;
-    padding: 5px;
-    margin: 5px;
-    
+div  {    
+}
+/*remove the default color of "a" and its default highlight color*/
+a, a:hover {
+    color: black;
+    text-decoration: none;
+    color: inherit;
 }
 
+h4 {
+    font-size: 16px;
+    margin-bottom: 0;
+}
+
+.dime {
+    height: 50px;
+    width: 50px;
+}
+
+.border-article {
+    border-top: solid;
+    border-top-width: 1px;   
+    border-bottom: double;
+    border-bottom-width: 4px; 
+    padding-top: 10px;
+}
+
+.padding-body {
+    padding-top: 20px;
+
+}
+
+h3 {
+    font-size: 21px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.stephanie {
+    font-size: 12px;
+    color: #777777;
+}
+
+.author {
+    font-size: 11px;
+    color: #BBB;
+}
+
+.description-color {
+    font-size: 13px;
+    color: #555555;
+}
+
+.live-color {
+    color: red;
+    font-weight: bold;
+}
